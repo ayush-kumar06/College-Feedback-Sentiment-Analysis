@@ -295,8 +295,8 @@ This project was developed as a **Minor Project** focused on Natural Language Pr
 
 ### 📬 Connect With Me
 
-* **GitHub:** https://github.com/ayush-kumar06
-* **LinkedIn:** https://linkedin.com/in/Ayush Kumar
+* **GitHub:** [ayush-kumar06](https://github.com/ayush-kumar06)
+* **LinkedIn:** [Ayush Kumar](https://www.linkedin.com/in/ayush-kumar-161380327?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
