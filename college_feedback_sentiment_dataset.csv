@@ -1,0 +1,301 @@
+feedback_id,category,feedback,sentiment
+1,Faculty,Professors provide useful guidance during projects,positive
+2,Faculty,Faculty members are often unavailable when students need help,negative
+3,Faculty,Professors provide useful guidance during projects,positive
+4,Faculty,Some classes rely too much on reading slides,negative
+5,Faculty,Doubts are not always addressed properly,negative
+6,Faculty,Some teachers do not explain difficult topics properly,negative
+7,Faculty,Faculty members are often unavailable when students need help,negative
+8,Faculty,Doubts are not always addressed properly,negative
+9,Faculty,Faculty members are often unavailable when students need help,negative
+10,Faculty,The teaching quality in most classes is excellent,positive
+11,Faculty,Faculty members are supportive and approachable,positive
+12,Faculty,Some classes rely too much on reading slides,negative
+13,Faculty,"In my experience, the teaching pace is too fast in some subjects",negative
+14,Faculty,The teaching pace is too fast in some subjects,negative
+15,Faculty,Faculty members are supportive and approachable,positive
+16,Faculty,Teachers encourage students to ask questions,positive
+17,Faculty,Some teachers do not explain difficult topics properly,negative
+18,Faculty,Faculty members are supportive and approachable,positive
+19,Faculty,"Overall, the teaching quality in most classes is excellent",positive
+20,Faculty,Some teachers do not explain difficult topics properly,negative
+21,Faculty,Teachers explain concepts clearly and patiently,positive
+22,Faculty,Doubts are not always addressed properly,negative
+23,Faculty,"In my experience, the teaching pace is too fast in some subjects",negative
+24,Faculty,Teachers explain concepts clearly and patiently,positive
+25,Faculty,Teachers explain concepts clearly and patiently,positive
+26,Faculty,Teachers encourage students to ask questions,positive
+27,Faculty,Some classes rely too much on reading slides,negative
+28,Faculty,"In my experience, the teaching quality in most classes is excellent",positive
+29,Faculty,Professors provide useful guidance during projects,positive
+30,Faculty,Teachers encourage students to ask questions,positive
+31,Infrastructure,Classrooms become uncomfortable during hot weather,negative
+32,Infrastructure,There are not enough facilities in some academic blocks,negative
+33,Infrastructure,"Overall, the furniture in some classrooms is damaged",negative
+34,Infrastructure,There are not enough facilities in some academic blocks,negative
+35,Infrastructure,Campus maintenance needs improvement,negative
+36,Infrastructure,Classrooms are spacious and comfortable,positive
+37,Infrastructure,The campus environment is clean and attractive,positive
+38,Infrastructure,The furniture in some classrooms is damaged,negative
+39,Infrastructure,Some classrooms need better maintenance,negative
+40,Infrastructure,"Overall, the campus environment is clean and attractive",positive
+41,Infrastructure,Classrooms are spacious and comfortable,positive
+42,Infrastructure,Classrooms become uncomfortable during hot weather,negative
+43,Infrastructure,"In my experience, the campus infrastructure is modern and well maintained",positive
+44,Infrastructure,Furniture in the classrooms is comfortable,positive
+45,Infrastructure,Furniture in the classrooms is comfortable,positive
+46,Infrastructure,Classrooms are spacious and comfortable,positive
+47,Infrastructure,"In my experience, the campus infrastructure is modern and well maintained",positive
+48,Infrastructure,Campus maintenance needs improvement,negative
+49,Infrastructure,Some classrooms need better maintenance,negative
+50,Infrastructure,Furniture in the classrooms is comfortable,positive
+51,Infrastructure,"Overall, the campus has good facilities for students",positive
+52,Infrastructure,The campus environment is clean and attractive,positive
+53,Infrastructure,"Overall, the furniture in some classrooms is damaged",negative
+54,Infrastructure,"In my experience, the campus has good facilities for students",positive
+55,Infrastructure,There are not enough facilities in some academic blocks,negative
+56,Infrastructure,Classrooms become uncomfortable during hot weather,negative
+57,Infrastructure,"In my experience, the campus infrastructure is modern and well maintained",positive
+58,Infrastructure,Some classrooms need better maintenance,negative
+59,Infrastructure,Campus maintenance needs improvement,negative
+60,Infrastructure,"In my experience, the campus has good facilities for students",positive
+61,Library,There are not enough seats during examination time,negative
+62,Library,The library internet connection is sometimes slow,negative
+63,Library,Library staff are helpful and cooperative,positive
+64,Library,Library timings are not convenient for students,negative
+65,Library,"Overall, the library needs more updated books",negative
+66,Library,The library has a good collection of academic books,positive
+67,Library,"In my experience, the library needs more updated books",negative
+68,Library,Library staff are helpful and cooperative,positive
+69,Library,Library resources are useful for exam preparation,positive
+70,Library,Some important reference books are unavailable,negative
+71,Library,"Overall, the digital library is helpful for students",positive
+72,Library,There are not enough seats during examination time,negative
+73,Library,"In my experience, the reading area is quiet and comfortable",positive
+74,Library,"In my experience, the library internet connection is sometimes slow",negative
+75,Library,Library staff are helpful and cooperative,positive
+76,Library,"In my experience, the digital library is helpful for students",positive
+77,Library,"Overall, the library needs more updated books",negative
+78,Library,"Overall, the library has a good collection of academic books",positive
+79,Library,Some important reference books are unavailable,negative
+80,Library,Library timings are not convenient for students,negative
+81,Library,Library resources are useful for exam preparation,positive
+82,Library,"Overall, the library has a good collection of academic books",positive
+83,Library,Library timings are not convenient for students,negative
+84,Library,Library resources are useful for exam preparation,positive
+85,Library,There are not enough seats during examination time,negative
+86,Library,"In my experience, the digital library is helpful for students",positive
+87,Library,"In my experience, the library internet connection is sometimes slow",negative
+88,Library,Some important reference books are unavailable,negative
+89,Library,"In my experience, the reading area is quiet and comfortable",positive
+90,Library,"Overall, the reading area is quiet and comfortable",positive
+91,Laboratory,The labs need better maintenance and upgrades,negative
+92,Laboratory,Lab sessions provide good practical exposure,positive
+93,Laboratory,Lab sessions provide good practical exposure,positive
+94,Laboratory,Some laboratory equipment is outdated,negative
+95,Laboratory,"Overall, the laboratory equipment is useful for practical learning",positive
+96,Laboratory,Some laboratory equipment is outdated,negative
+97,Laboratory,Most laboratory equipment is properly maintained,positive
+98,Laboratory,"In my experience, the labs need better maintenance and upgrades",negative
+99,Laboratory,The laboratory staff are helpful during practicals,positive
+100,Laboratory,There are not enough computers during lab sessions,negative
+101,Laboratory,The laboratory equipment is useful for practical learning,positive
+102,Laboratory,"Overall, the laboratory equipment is useful for practical learning",positive
+103,Laboratory,Computer labs have sufficient systems for students,positive
+104,Laboratory,Some practical sessions are too short,negative
+105,Laboratory,Some laboratory equipment is outdated,negative
+106,Laboratory,The laboratory staff are helpful during practicals,positive
+107,Laboratory,Laboratory systems sometimes stop working,negative
+108,Laboratory,There are not enough computers during lab sessions,negative
+109,Laboratory,Most laboratory equipment is properly maintained,positive
+110,Laboratory,Computer labs have sufficient systems for students,positive
+111,Laboratory,Lab sessions provide good practical exposure,positive
+112,Laboratory,Most laboratory equipment is properly maintained,positive
+113,Laboratory,There are not enough computers during lab sessions,negative
+114,Laboratory,Laboratory systems sometimes stop working,negative
+115,Laboratory,Some practical sessions are too short,negative
+116,Laboratory,Laboratory systems sometimes stop working,negative
+117,Laboratory,"Overall, the labs need better maintenance and upgrades",negative
+118,Laboratory,Some practical sessions are too short,negative
+119,Laboratory,Computer labs have sufficient systems for students,positive
+120,Laboratory,The laboratory staff are helpful during practicals,positive
+121,Hostel,Room facilities are satisfactory for students,positive
+122,Hostel,Room facilities are satisfactory for students,positive
+123,Hostel,Food quality in the hostel mess needs improvement,negative
+124,Hostel,"Overall, the hostel WiFi connection is unreliable",negative
+125,Hostel,There are frequent water supply problems in the hostel,negative
+126,Hostel,"In my experience, the hostel rooms are clean and comfortable",positive
+127,Hostel,The hostel rooms are clean and comfortable,positive
+128,Hostel,"Overall, the hostel common areas are well maintained",positive
+129,Hostel,Hostel staff are helpful and responsive,positive
+130,Hostel,Hostel rooms can become overcrowded,negative
+131,Hostel,There are frequent water supply problems in the hostel,negative
+132,Hostel,"Overall, the hostel WiFi connection is unreliable",negative
+133,Hostel,Hostel rooms need better maintenance,negative
+134,Hostel,The hostel provides a safe environment,positive
+135,Hostel,There are frequent water supply problems in the hostel,negative
+136,Hostel,The hostel common areas are well maintained,positive
+137,Hostel,"In my experience, the hostel common areas are well maintained",positive
+138,Hostel,Food quality in the hostel mess needs improvement,negative
+139,Hostel,Hostel rooms can become overcrowded,negative
+140,Hostel,Hostel staff are helpful and responsive,positive
+141,Hostel,"Overall, the hostel provides a safe environment",positive
+142,Hostel,Hostel rooms need better maintenance,negative
+143,Hostel,The hostel rooms are clean and comfortable,positive
+144,Hostel,The hostel provides a safe environment,positive
+145,Hostel,Hostel rooms can become overcrowded,negative
+146,Hostel,Room facilities are satisfactory for students,positive
+147,Hostel,Food quality in the hostel mess needs improvement,negative
+148,Hostel,Hostel rooms need better maintenance,negative
+149,Hostel,The hostel WiFi connection is unreliable,negative
+150,Hostel,Hostel staff are helpful and responsive,positive
+151,Canteen,"Overall, the canteen has a good variety of food",positive
+152,Canteen,"In my experience, the canteen becomes too crowded during lunch",negative
+153,Canteen,Food is usually served fresh,positive
+154,Canteen,Cleanliness in the canteen needs improvement,negative
+155,Canteen,"Overall, the seating area in the canteen is comfortable",positive
+156,Canteen,Canteen staff are polite and helpful,positive
+157,Canteen,Food is usually served fresh,positive
+158,Canteen,The canteen food is tasty and reasonably priced,positive
+159,Canteen,Canteen staff are polite and helpful,positive
+160,Canteen,Food is usually served fresh,positive
+161,Canteen,"Overall, the canteen food quality is inconsistent",negative
+162,Canteen,The canteen has a good variety of food,positive
+163,Canteen,"Overall, the seating area in the canteen is comfortable",positive
+164,Canteen,"Overall, the seating area in the canteen is comfortable",positive
+165,Canteen,"In my experience, the canteen needs more healthy food options",negative
+166,Canteen,Cleanliness in the canteen needs improvement,negative
+167,Canteen,The canteen food quality is inconsistent,negative
+168,Canteen,Food prices are high for students,negative
+169,Canteen,Canteen staff are polite and helpful,positive
+170,Canteen,The canteen becomes too crowded during lunch,negative
+171,Canteen,Food prices are high for students,negative
+172,Canteen,"Overall, the canteen food is tasty and reasonably priced",positive
+173,Canteen,Cleanliness in the canteen needs improvement,negative
+174,Canteen,Food prices are high for students,negative
+175,Canteen,"In my experience, the canteen food quality is inconsistent",negative
+176,Canteen,"In my experience, the canteen needs more healthy food options",negative
+177,Canteen,"In my experience, the canteen becomes too crowded during lunch",negative
+178,Canteen,"Overall, the canteen has a good variety of food",positive
+179,Canteen,"Overall, the canteen food is tasty and reasonably priced",positive
+180,Canteen,"Overall, the canteen needs more healthy food options",negative
+181,WiFi,WiFi connectivity is weak in some classrooms,negative
+182,WiFi,WiFi coverage is good across most academic areas,positive
+183,WiFi,WiFi coverage is good across most academic areas,positive
+184,WiFi,Internet access is useful for academic work,positive
+185,WiFi,The internet speed is sufficient for online classes,positive
+186,WiFi,Campus WiFi is fast and reliable,positive
+187,WiFi,Campus WiFi is fast and reliable,positive
+188,WiFi,Campus WiFi is often slow during peak hours,negative
+189,WiFi,"Overall, the campus needs better internet coverage",negative
+190,WiFi,Students face problems accessing online resources,negative
+191,WiFi,WiFi coverage is good across most academic areas,positive
+192,WiFi,Students face problems accessing online resources,negative
+193,WiFi,Internet access is useful for academic work,positive
+194,WiFi,Internet access is useful for academic work,positive
+195,WiFi,The campus needs better internet coverage,negative
+196,WiFi,Students face problems accessing online resources,negative
+197,WiFi,"In my experience, the internet speed is sufficient for online classes",positive
+198,WiFi,Campus connectivity helps students access online resources,positive
+199,WiFi,The internet speed is sufficient for online classes,positive
+200,WiFi,Campus WiFi is often slow during peak hours,negative
+201,WiFi,"Overall, the internet connection frequently disconnects",negative
+202,WiFi,Campus WiFi is fast and reliable,positive
+203,WiFi,WiFi connectivity is weak in some classrooms,negative
+204,WiFi,Campus WiFi is often slow during peak hours,negative
+205,WiFi,"In my experience, the campus needs better internet coverage",negative
+206,WiFi,Campus connectivity helps students access online resources,positive
+207,WiFi,"Overall, the internet connection frequently disconnects",negative
+208,WiFi,The internet connection frequently disconnects,negative
+209,WiFi,WiFi connectivity is weak in some classrooms,negative
+210,WiFi,Campus connectivity helps students access online resources,positive
+211,Administration,Administrative processes take too much time,negative
+212,Administration,Administrative processes take too much time,negative
+213,Administration,Student queries are sometimes not resolved quickly,negative
+214,Administration,Administrative staff are cooperative and helpful,positive
+215,Administration,Students have to visit offices multiple times for simple tasks,negative
+216,Administration,Student queries are sometimes not resolved quickly,negative
+217,Administration,Administrative staff respond quickly to student queries,positive
+218,Administration,Administrative staff respond quickly to student queries,positive
+219,Administration,"In my experience, the documentation process is complicated",negative
+220,Administration,Administrative staff respond quickly to student queries,positive
+221,Administration,College notices are occasionally unclear,negative
+222,Administration,College notices are communicated clearly,positive
+223,Administration,College notices are communicated clearly,positive
+224,Administration,Students have to visit offices multiple times for simple tasks,negative
+225,Administration,Online administrative services are convenient,positive
+226,Administration,"In my experience, the documentation process is complicated",negative
+227,Administration,Students have to visit offices multiple times for simple tasks,negative
+228,Administration,College notices are occasionally unclear,negative
+229,Administration,The documentation process is complicated,negative
+230,Administration,Administrative staff are cooperative and helpful,positive
+231,Administration,College notices are communicated clearly,positive
+232,Administration,Student queries are sometimes not resolved quickly,negative
+233,Administration,The admission and registration process is well organized,positive
+234,Administration,Administrative processes take too much time,negative
+235,Administration,College notices are occasionally unclear,negative
+236,Administration,"Overall, the admission and registration process is well organized",positive
+237,Administration,Online administrative services are convenient,positive
+238,Administration,The admission and registration process is well organized,positive
+239,Administration,Online administrative services are convenient,positive
+240,Administration,Administrative staff are cooperative and helpful,positive
+241,Placement,The number of placement opportunities is limited,negative
+242,Placement,Students get good opportunities to interact with recruiters,positive
+243,Placement,Students need better guidance for technical interviews,negative
+244,Placement,The placement team shares opportunities regularly,positive
+245,Placement,Students get good opportunities to interact with recruiters,positive
+246,Placement,Placement training needs to be more practical,negative
+247,Placement,The placement team shares opportunities regularly,positive
+248,Placement,"Overall, the placement cell provides useful career guidance",positive
+249,Placement,"Overall, the number of placement opportunities is limited",negative
+250,Placement,Students need better guidance for technical interviews,negative
+251,Placement,More companies should be invited for campus placements,negative
+252,Placement,"Overall, the placement team shares opportunities regularly",positive
+253,Placement,More companies should be invited for campus placements,negative
+254,Placement,"Overall, the placement process could be communicated more clearly",negative
+255,Placement,"Overall, the placement cell provides useful career guidance",positive
+256,Placement,"In my experience, the placement process could be communicated more clearly",negative
+257,Placement,"Overall, the college organizes helpful placement training",positive
+258,Placement,Students get good opportunities to interact with recruiters,positive
+259,Placement,Students need better guidance for technical interviews,negative
+260,Placement,Placement training needs to be more practical,negative
+261,Placement,Placement training needs to be more practical,negative
+262,Placement,More companies should be invited for campus placements,negative
+263,Placement,The placement cell provides useful career guidance,positive
+264,Placement,"In my experience, the number of placement opportunities is limited",negative
+265,Placement,"In my experience, the college organizes helpful placement training",positive
+266,Placement,Mock interviews are useful for placement preparation,positive
+267,Placement,"In my experience, the placement process could be communicated more clearly",negative
+268,Placement,Mock interviews are useful for placement preparation,positive
+269,Placement,The college organizes helpful placement training,positive
+270,Placement,Mock interviews are useful for placement preparation,positive
+271,Campus,Campus transportation facilities need improvement,negative
+272,Campus,More student activities should be organized,negative
+273,Campus,Campus security is well managed,positive
+274,Campus,More student activities should be organized,negative
+275,Campus,Some areas of the campus need better lighting,negative
+276,Campus,"In my experience, the campus has a positive and friendly atmosphere",positive
+277,Campus,Some areas of the campus need better lighting,negative
+278,Campus,There are many useful student clubs and activities,positive
+279,Campus,Students have good opportunities for extracurricular activities,positive
+280,Campus,"In my experience, the campus environment supports overall student development",positive
+281,Campus,Campus transportation facilities need improvement,negative
+282,Campus,There are many useful student clubs and activities,positive
+283,Campus,Campus security is well managed,positive
+284,Campus,There are many useful student clubs and activities,positive
+285,Campus,Students have good opportunities for extracurricular activities,positive
+286,Campus,More student activities should be organized,negative
+287,Campus,Campus transportation facilities need improvement,negative
+288,Campus,"Overall, the campus environment supports overall student development",positive
+289,Campus,Campus security is well managed,positive
+290,Campus,"Overall, the campus has a positive and friendly atmosphere",positive
+291,Campus,There are not enough recreational facilities on campus,negative
+292,Campus,Some campus areas need better cleanliness,negative
+293,Campus,Students have good opportunities for extracurricular activities,positive
+294,Campus,Some campus areas need better cleanliness,negative
+295,Campus,There are not enough recreational facilities on campus,negative
+296,Campus,Some campus areas need better cleanliness,negative
+297,Campus,"In my experience, the campus environment supports overall student development",positive
+298,Campus,"In my experience, the campus has a positive and friendly atmosphere",positive
+299,Campus,There are not enough recreational facilities on campus,negative
+300,Campus,Some areas of the campus need better lighting,negative
